@@ -2,3 +2,16 @@ html {
   height: 100%;
   width: 100%;
 }
+
+.Logo {
+  height: 500px;
+  width: 100%;
+}
+
+.Enviar {
+  margin-top: 15px;
+}
+
+.Titulo {
+  margin-left: 120px;
+}
